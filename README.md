@@ -1,4 +1,4 @@
----------------------------------------------- 🚧 *Page is still under construction* 🚧 ----------------------------------------------
+---------------------------------------------------------- 🚧 *Page is still under construction* 🚧 ----------------------------------------------------------
 
 # AnalyticsPortfolio 📊💻
 Welcome to my **AnalyticsPortfolio**! This repository is a collection of my data analysis and visualization projects, showcasing the skills and knowledge I’ve gained through my master’s program and ongoing practice. Here, you’ll find a diverse range of projects, including my final master’s project, practical exercises, and presentations—all related to data and technology.
@@ -23,4 +23,4 @@ This repository showcases not only the skills and knowledge I have acquired but 
 ## 📬 Get in Touch
 If you have any questions, feedback, or just want to connect, feel free to reach out to me through GitHub. I’m always happy to share ideas, collaborate, and grow within this amazing field of technology.
 
----------------------------------------------- 🚧 *Page is still under construction* 🚧 ----------------------------------------------
+---------------------------------------------------------- 🚧 *Page is still under construction* 🚧 ----------------------------------------------------------
