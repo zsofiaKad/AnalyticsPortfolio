@@ -1,4 +1,4 @@
-ENGLISH VERSION
+## *ENGLISH VERSION*
 
 # MASTER'S FINAL PROJECT: Real Estate Investment Analysis - GROUP HOSTING
 
@@ -69,12 +69,14 @@ The deliverables include:
 2. If you wish to run the Jupyter Notebooks, find the CSV files uploaded in the "CSVs" section.
 3. Review the Python code and analysis in a Jupyter Notebook environment.
 4. View the final visualizations in PowerBI.
+   
+.
 
 ---
   
----
 
-SPANISH VERSION
+
+## *SPANISH VERSION*
 
 # PROYECTO FINAL DE MASTER: Análisis de Inversión Inmobiliaria - GRUPO HOSTING
 
