@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="von Roon, Henning";RSVP=TRUE:mailto:Henning.vonRoon@tui.de
+ATTENDEE;CN="Exner, Andre";RSVP=TRUE:mailto:andre.exner@tui.com
+CLASS:PUBLIC
+CREATED:20241009T141209Z
+DESCRIPTION:\n_____________________________________________________________
+	___________________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsM
+	eeting?omkt=en-US>  \nJoin the meeting now <https://teams.microsoft.com/l/
+	meetup-join/19%3ameeting_NGIxNTcwYzItYzc0Ni00ZjY2LTk2YTktNjFkZDViNzhlN2Q5%
+	40thread.v2/0?context=%7b%22Tid%22%3a%22e3e1f65b-b973-440d-b61c-bc895fc98e
+	28%22%2c%22Oid%22%3a%2270483f94-8a06-424e-b56e-d68ed8a45504%22%7d>  \nMeet
+	ing ID: 343 480 311 614 \nPasscode: WoFjno \n_____________________________
+	___\n\nFor organizers: Meeting options <https://teams.microsoft.com/meetin
+	gOptions/?organizerId=70483f94-8a06-424e-b56e-d68ed8a45504&tenantId=e3e1f6
+	5b-b973-440d-b61c-bc895fc98e28&threadId=19_meeting_NGIxNTcwYzItYzc0Ni00ZjY
+	2LTk2YTktNjFkZDViNzhlN2Q5@thread.v2&messageId=0&language=en-US>  \n_______
+	_________________________________________________________________________\
+	n
+DTEND;TZID="W. Europe Standard Time":20241017T153000
+DTSTAMP:20241009T140942Z
+DTSTART;TZID="W. Europe Standard Time":20241017T150000
+LAST-MODIFIED:20241009T141209Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Singh, Jasdeep":mailto:Jasdeep.Singh@tui.com
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-us:TUI AI Assistant Townhall
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008211A983501ADB01000000000000000
+	010000000B4E94335FAEB3C4EBD51DC3592022936
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<br>\n<div 
+	style="max-width: 520px\; color: #242424\; font-family:'Segoe UI'\,'Helvet
+	ica Neue'\,Helvetica\,Arial\,sans-serif" class="me-email-text">\n<div styl
+	e="margin-bottom:24px\;overflow:hidden\;white-space:nowrap\;">____________
+	____________________________________________________________________</div>
+	\n<div style="margin-bottom: 12px\;"><span class="me-email-text" style="fo
+	nt-size: 24px\;font-weight: 700\; margin-right:12px\;">Microsoft Teams</sp
+	an>\n<a id="meet_invite_block.action.help" class="me-email-link" style="fo
+	nt-size:14px\; text-decoration:underline\; color: #5B5FC7\;" href="https:/
+	/aka.ms/JoinTeamsMeeting?omkt=en-US">\nNeed help?</a> </div>\n<div style="
+	margin-bottom: 6px\;"><a id="meet_invite_block.action.join_link" title="Me
+	eting join link" class="me-email-headline" style="font-size: 20px\; font-w
+	eight:600\; text-decoration: underline\; color: #5B5FC7\;" href="https://t
+	eams.microsoft.com/l/meetup-join/19%3ameeting_NGIxNTcwYzItYzc0Ni00ZjY2LTk2
+	YTktNjFkZDViNzhlN2Q5%40thread.v2/0?context=%7b%22Tid%22%3a%22e3e1f65b-b973
+	-440d-b61c-bc895fc98e28%22%2c%22Oid%22%3a%2270483f94-8a06-424e-b56e-d68ed8
+	a45504%22%7d" target="_blank" rel="noreferrer noopener">Join\n the meeting
+	 now</a> </div>\n<div style="margin-bottom: 6px\;"><span class="me-email-t
+	ext-secondary" style="font-size: 14px\; color: #616161\;">Meeting ID:\n</s
+	pan><span class="me-email-text" style="font-size: 14px\; color: #242424\;"
+	>343 480 311 614</span>\n</div>\n<div style="margin-bottom: 24px\;"><span 
+	class="me-email-text-secondary" style="font-size: 14px\; color: #616161\;"
+	>Passcode:\n</span><span class="me-email-text" style="font-size: 14px\; co
+	lor: #242424\;">WoFjno</span>\n</div>\n<div style="margin-bottom: 24px\; m
+	ax-width: 532px\;">\n<hr style="border: 0\; background: #D1D1D1\; height: 
+	1px\;">\n</div>\n<div><span class="me-email-text-secondary" style="font-si
+	ze: 14px\; color: #616161\;">For organizers:\n</span><a id="meet_invite_bl
+	ock.action.organizer_meet_options" class="me-email-link" style="font-size:
+	 14px\; text-decoration: underline\; color: #5B5FC7\;" target="_blank" hre
+	f="https://teams.microsoft.com/meetingOptions/?organizerId=70483f94-8a06-4
+	24e-b56e-d68ed8a45504&amp\;tenantId=e3e1f65b-b973-440d-b61c-bc895fc98e28&a
+	mp\;threadId=19_meeting_NGIxNTcwYzItYzc0Ni00ZjY2LTk2YTktNjFkZDViNzhlN2Q5@t
+	hread.v2&amp\;messageId=0&amp\;language=en-US" rel="noreferrer noopener">M
+	eeting\n options</a> </div>\n<div style="margin-top: 24px\; margin-bottom:
+	 6px\;"></div>\n<div style="margin-bottom: 24px\;"></div>\n<div style="mar
+	gin-bottom:24px\;overflow:hidden\;white-space:nowrap\;">__________________
+	______________________________________________________________</div>\n</di
+	v>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MS-OLK-APPTLASTSEQUENCE:1
+X-MS-OLK-APPTSEQTIME:20241009T140942Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
