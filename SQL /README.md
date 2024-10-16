@@ -46,4 +46,4 @@ This table captures the details of excursion bookings made by customers. Each en
 
 ## Querying the Data
 
-This use case showcases my abilities in SQL and serves as an excellent practice for new learners. By leveraging these tables, a variety of SQL queries can be executed to extract meaningful insights and information about excursion sales, customer preferences, and guide performance. This exercise not only enhances SQL skills but also provides practical insights into managing and analyzing sales data for an online excursion platform.
+Leveraging these tables, a variety of SQL queries can be executed to extract meaningful insights and information about excursion sales, customer preferences, and guide performance. This exercise not only enhances your SQL skills but also provides practical insights into managing and analyzing sales data for an online excursion platform.
