@@ -275,7 +275,7 @@ WHERE NOT EXISTS (
     );
 
 #3.) *Advanced Joins*
-#Find excursions that have been booked by customers who have also booked a specific excursion (e.g., 'Mountain Hiking'):**
+#Find excursions that have been booked by customers who have also booked a specific excursion (e.g., 'Mountain Hiking'):
 
 SELECT DISTINCT e2.title
 FROM bookings AS b1
