@@ -147,3 +147,5 @@ Los entregables incluyen:
 2. Si deseas ejecutar los Jupyter Notebooks, encuentra los archivos CSV subidos en la sección "CSVs".
 3. Revisa los códigos de Python y el análisis en un entorno de Jupyter Notebook.
 4. Visualiza los informes finales en PowerBI.
+
+   
