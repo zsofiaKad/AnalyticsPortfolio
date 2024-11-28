@@ -22,4 +22,4 @@ This repository showcases not only the skills and knowledge I have acquired but 
 Spanglish: You will find content in English and Spanish.
 
 ## 📬 Get in Touch
-If you have any questions, feedback, or just want to connect, feel free to reach out to me through GitHub. I’m always happy to share ideas, collaborate, and grow within this amazing field of technology.
+If you have any questions, feedback, or just want to connect, feel free to reach out to me through GitHub <*zsofiaKad*> or Discord <*zsofia0668*>. I’m always happy to share ideas, collaborate, and grow within this amazing field of technology.
