@@ -398,3 +398,4 @@ LEFT JOIN categories AS c
 ON e.category_id = c.id_category
 GROUP BY guide_full_name
 ORDER BY guide_full_name;
+
