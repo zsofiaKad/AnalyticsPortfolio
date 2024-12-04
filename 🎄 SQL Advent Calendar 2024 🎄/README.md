@@ -1,6 +1,6 @@
 # 🎄 SQL Advent Calendar 2024 🎄
 
-This challenge is from [Dawn Choo](https://www.linkedin.com/in/dawnchoo/), a Data Scientist. It's open to join via this link: [SQL Advent Calendar](https://www.sqlcalendar.com/app/advent-calendar).  
+This challenge is from [Dawn Choo](https://www.linkedin.com/in/data-dawn/), a Data Scientist. It's open to join via this link: [SQL Advent Calendar](https://www.sqlcalendar.com/app/advent-calendar).  
 
 📅 **Challenge Period:** December 1st - December 24th, 2024  
 
