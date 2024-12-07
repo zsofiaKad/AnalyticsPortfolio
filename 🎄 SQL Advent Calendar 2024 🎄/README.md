@@ -28,5 +28,3 @@ Create a free account at: [SQL Advent Calendar](https://www.sqlcalendar.com)
 ---
 
 ### *PS:  The questions vary in difficulty — tackle them in order or mix and match!*
-
-Stay tuned for more challenges! 🎉  
