@@ -1,8 +1,7 @@
 ### Day 5: Christmas in the Southern Hemisphere 🎅🏖️
 
-**Challenge**: Which beaches are expected to have temperatures above 30°C on Christmas Day?
+**Challenge**: This year, we're celebrating Christmas in the Southern Hemisphere! Which beaches are expected to have temperatures above 30°C on Christmas Day?
 
----
 
 **Table Name**: `beach_temperature_predictions`
 
@@ -13,11 +12,9 @@
 | CLIFTON BEACH   | SOUTH AFRICA     | 31                      | 2024-12-25 |
 | BRIGHTON BEACH  | NEW ZEALAND      | 25                      | 2024-12-25 |
 
----
 
 ### **Question Level of Difficulty**: Easy
 
----
 
 ### **SQL Query**
 ```sql
@@ -26,7 +23,6 @@ FROM beach_temperature_predictions
 WHERE expected_temperature_c > 30 AND date = '2024-12-25';
 ```
 
----
 
 ### **Step-by-Step Explanation**
 1. **`SELECT beach_name, country`:**
@@ -38,7 +34,6 @@ WHERE expected_temperature_c > 30 AND date = '2024-12-25';
 4. **`AND date = '2024-12-25'`:**
    - Ensures only predictions for Christmas Day (2024-12-25) are included.
 
----
 
 ### **Result**
 | BEACH_NAME      | COUNTRY        |
