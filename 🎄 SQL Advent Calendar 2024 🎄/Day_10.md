@@ -1,6 +1,6 @@
 ### DAY 10: Tracking Friends' New Year's Resolution Progress 🎯
 
-**Challenge**: You are tracking your friends' New Year’s resolution progress. Write a query to calculate the following for each friend: number of resolutions they made, number of resolutions they completed, and success percentage (% of resolutions completed) and a success category based on the success percentage:
+You are tracking your friends' New Year’s resolution progress. Write a query to calculate the following for each friend: number of resolutions they made, number of resolutions they completed, and success percentage (% of resolutions completed) and a success category based on the success percentage:
 - **Green**: If success percentage is greater than 75%.
 - **Yellow**: If success percentage is between 50% and 75% (inclusive).
 - **Red**: If success percentage is less than 50%.
