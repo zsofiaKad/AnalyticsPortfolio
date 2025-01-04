@@ -36,7 +36,7 @@ ORDER BY
 
 
 
-### **STEP-BY-STEP EXPLANATION** 📚
+### **STEP-BY-STEP EXPLANATION** 
 
 1. **Select the current day's log (g1):**
    - The `grinch_weight_log` table is referenced as `g1` to represent the current day's weight (`g1.weight`).
