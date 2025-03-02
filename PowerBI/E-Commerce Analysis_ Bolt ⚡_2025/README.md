@@ -53,6 +53,7 @@ Este proyecto me permitió consolidar conocimientos en **optimización de modelo
 ✅ Aplicación de funciones clave:
 - `CALCULATE`, `DATESYTD`, `USERELATIONSHIP`, `FILTER`.
 - `SUMX`, `COUNTROWS`, `IF`, `FORMAT`, `DIVIDE`.
+- `SAMEPERIODLASTYEAR`, `INDEX`, `VALUE`, `SELECTEDVALUE`, `RELATED`. ...
 - Implementación de funciones **time intelligence** para comparaciones temporales.  
 
 ✅ Optimización de cálculos para mejorar la **performance del dashboard**.   
