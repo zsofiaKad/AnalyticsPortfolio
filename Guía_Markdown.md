@@ -38,10 +38,17 @@ Ejemplo con “digital”
 3. digital
 
 
-## Enlaces `[digital](https://github.com)`
+## Enlaces `[Ver proyecto](https://github.com)`
 
-[digital](https://github.com)
+🔗 [Ver proyecto](LINK)
 
+
+## Imagen `![texto](ruta)`
+
+🔗 [banner](LINK)
+
+## Citas '> digital'
+> digital
 
 ## Bloques de código
 
@@ -54,3 +61,9 @@ print("digital")
 ```sql
 SELECT 'digital' AS ejemplo;
 ````
+
+## Espacio vertival
+'< br >'
+<br>
+
+
