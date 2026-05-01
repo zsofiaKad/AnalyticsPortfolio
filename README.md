@@ -27,7 +27,8 @@ Python • SQL • Snowflake • Power BI • GA4 • GTM • AI
 - Empiezo por el **problema de negocio**, no por la herramienta  
 - Trabajo con **datos imperfectos** y escenarios reales  
 - Priorizo **claridad y aplicabilidad** sobre complejidad técnica  
-- Comunico resultados de forma **estructurada y accionable**  
+- Comunico resultados de forma **estructurada y accionable**
+- Siempre **encuentro una solución** basada en datos  
 
 <br>
 
