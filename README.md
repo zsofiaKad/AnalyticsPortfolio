@@ -66,7 +66,7 @@ Caso basado en entorno real profesional (**datos anonimizados**)
 
 <img src="png/divider.png" width="500"/> 
 
-### 03. K-Pop Data Analysis Challenge (2º puesto)
+### 03. EDA - Data Analysis Challenge (2º puesto)
 
 - Análisis de tendencias de éxito en la industria K-pop  
 - Identificación de patrones para expansión en España y LATAM  
