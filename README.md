@@ -16,13 +16,9 @@ Aquí documento proyectos y ejemplos para ayudar a otros perfiles a:
 
 <br>
 
-## Herramientas en entorno profesional
+## Stack
 
-- **Data & Querying:** Snowflake, SQL  
-- **Análisis & scripting:** Python (Jupyter Notebooks)  
-- **Visualización:** Power BI  
-- **Analítica digital:** Google Analytics, Google Tag Manager  
-- **Automatización / AI:** Copilot Studio  
+Python • SQL • Snowflake • Power BI • GA4 • GTM • AI
 
 <br>
 
