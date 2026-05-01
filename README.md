@@ -6,7 +6,7 @@ Este perfil combina **proyectos profesionales** (anonimizados) y **proyectos for
 
 <br> 
 
-## Sobre este repositorio 
+## Sobre este repositorio  
 Este portfolio tiene también un objetivo educativo. 
 
 Aquí documento proyectos y ejemplos para ayudar a otros perfiles a: 
