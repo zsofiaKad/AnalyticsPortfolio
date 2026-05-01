@@ -1,25 +1,96 @@
-# AnalyticsPortfolio 📊💻
-Welcome to my **AnalyticsPortfolio**! This repository is a collection of my data analysis and visualization projects, showcasing the skills and knowledge I’ve gained through my master’s program and ongoing practice. Here, you’ll find a diverse range of projects, including my final master’s project, practical exercises, and presentations—all related to data and technology.
+![banner](png/banner.png) 
 
-## 📁 Contents
-- **Master’s Final Project:** A comprehensive data analysis project demonstrating my ability to tackle real-world problems using data.
-- **Practical Exercises:** Various examples showcasing different techniques and skills acquired during my studies.
-- **Presentations:** Professional presentations that illustrate the results and insights from my data analysis projects.
-- **Code and Notebooks:** Scripts and Jupyter notebooks detailing the methodologies and analyses used.
+Soy **Digital Product Analyst** con experiencia en datos, customer experience y operaciones, trabajando en entornos donde el análisis tiene impacto directo en decisiones de negocio. Colaboro con distintos equipos y stakeholders para entender problemas, definir métricas clave y transformar datos en acciones concretas que mejoren productos y resultados. Trabajo con datos reales para analizar el comportamiento de usuarios, optimizar procesos y apoyar decisiones estratégicas basadas en evidencia. 
 
-## 🛠 Skills Demonstrated
-*In this portfolio, you’ll find demonstrations of the following skills:*
-- **Data Analysis:** Utilizing Python, SQL, and various libraries to extract insights from data.
-- **Data Visualization:** Creating compelling visualizations with Tableau, PowerBI, and Python libraries like Matplotlib and Plotly.
-- **Web Scraping:** Extracting data from the web using Python with BeautifulSoup and Selenium.
-- **Big Data:** Applying big data technologies and concepts to analyze large datasets.
-- **Business Intelligence:** Transforming data into actionable business insights using advanced BI tools and techniques.
+Este perfil combina **proyectos profesionales** (anonimizados) y **proyectos formativos** con un enfoque práctico y educativo. 
 
-## 🔍 Why This Portfolio?
-This repository showcases not only the skills and knowledge I have acquired but also provides practical examples of how these skills are applied. It serves as a resource for anyone interested in understanding the depth of my expertise in data analytics and offers step-by-step analyses for new learners.
+<br> 
 
-## 🌍 Language
-Spanglish: You will find content in English and Spanish.
+## Sobre este repositorio 
+Este portfolio tiene también un objetivo educativo. 
 
-## 📬 Get in Touch
-If you have any questions, feedback, or just want to connect, feel free to reach out to me through GitHub <*zsofiaKad*> or Discord <*zsofia0668*>. I’m always happy to share ideas, collaborate, and grow within this amazing field of technology.
+Aquí documento proyectos y ejemplos para ayudar a otros perfiles a: 
+- Entender cómo construir un portfolio en data
+- Ver casos prácticos reales
+- Aprender a enfocar proyectos hacia negocio
+
+<br>
+
+## Herramientas en entorno profesional
+
+- **Data & Querying:** Snowflake, SQL  
+- **Análisis & scripting:** Python (Jupyter Notebooks)  
+- **Visualización:** Power BI  
+- **Analítica digital:** Google Analytics, Google Tag Manager  
+- **Automatización / AI:** Copilot Studio  
+
+<br>
+
+## Cómo trabajo
+
+- Empiezo por el **problema de negocio**, no por la herramienta  
+- Trabajo con **datos imperfectos** y escenarios reales  
+- Priorizo **claridad y aplicabilidad** sobre complejidad técnica  
+- Comunico resultados de forma **estructurada y accionable**  
+
+<br>
+
+## Proyectos destacados
+
+### 01. Proyecto Jupiter — Análisis de inversión inmobiliaria
+
+Proyecto final de máster (PontIA)
+
+- Análisis de mercado inmobiliario en destinos turísticos en España  
+- Integración de múltiples fuentes de datos  
+- Identificación de variables clave en **precio, rentabilidad y estacionalidad**  
+- Recomendaciones estratégicas para inversión de **300M€**  
+
+**Stack:** Python, Pandas, Web Scraping, Power BI  
+
+🔗 [Ver notebook](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/01.%20Master's%20final%20project)
+
+<img src="png/divider.png" width="500"/> 
+
+### 02. Excursion Sales & Cancellation Analysis
+
+Caso basado en entorno real profesional (**datos anonimizados**)
+
+- Análisis de cancelaciones y su impacto en ingresos  
+- Identificación de patrones temporales y operativos  
+- Creación de dashboard para toma de decisiones  
+
+**Stack:** Snowflake, SQL, Power BI  
+
+🔗 [Ver notebook](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/04.%20Power%20BI/Sales%20performance)
+
+<img src="png/divider.png" width="500"/> 
+
+### 03. K-Pop Data Analysis Challenge (2º puesto)
+
+- Análisis de tendencias de éxito en la industria K-pop  
+- Identificación de patrones para expansión en España y LATAM  
+- Presentación de resultados en formato storytelling  
+
+**Stack:** Python, Pandas, EDA  
+
+🔗 [Ver notebook](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/02.%20Python/Python%20Challange%20EDA)
+
+<img src="png/divider.png" width="500"/> 
+
+### 04. SQL Marketing Data Analysis
+
+- Análisis de tráfico, conversión y funnel  
+- A/B testing y performance de landing pages  
+- Análisis de canales y comportamiento de usuarios  
+
+**Stack:** SQL (MySQL)  
+
+🔗 [Ver notebook](https://github.com/zsofiaKad/AnalyticsPortfolio/tree/main/03.%20SQL/Digital_Marketing_Analysis_Advanced_SQL)
+
+<br>
+
+## Contacto
+
+- GitHub: https://github.com/zsofiaKad  
+- LinkedIn: <*link*>
